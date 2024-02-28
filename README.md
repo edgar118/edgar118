@@ -9,17 +9,19 @@
 
 📫 How to reach me edgarbolivar117@gmail.com
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/edgar-bolivar-sanjuan/ </h3>
-<p align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <h3>Connect with me: https://www.linkedin.com/in/edgar-bolivar-sanjuan/ </h3>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fast" width="40" height="40"/>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/>
+
+<p align="center">
+  <h3 align="left">Languages and Tools:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,django,fastapi,flask,html,kali,mysql,postgres" />
+  </a>
 </p>
 
 <p>
