@@ -24,6 +24,6 @@
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edgar118" alt="edgar118"/>
-</p>
+
+![My Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edgar118&layout=compact&theme=radical&langs_count=6&hide_border=true&border_radius=20)
+
